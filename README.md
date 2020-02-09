@@ -1,6 +1,7 @@
 <h1 align="center">
   ilikesticker.com Crawler
 </h1>
+
 ## 🚀 Installation
 
 1. **Install package**
